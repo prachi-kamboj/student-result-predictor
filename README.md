@@ -1,4 +1,4 @@
-# Student Pass/Fail Prediction System
+# Student Result Prediction System
 
 ## Project Overview
 This is a Machine Learning project developed for my AI/ML course. The objective is to build a model that can predict if a student will **Pass** or **Fail** based on their academic performance and study habits.
